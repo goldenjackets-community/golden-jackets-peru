@@ -4,11 +4,11 @@
 ************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
 ************* Attribution is appreciated! https://simplemaps.com *******************************************-->
 
-<svg id="peru-map" baseprofile="tiny" fill="#2d2d4e" height="1000" stroke="#B8860B" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.8" version="1.2" viewbox="0 0 1000 1000" width="1000" xmlns="http://www.w3.org/2000/svg">
+<svg id="peru-map" baseprofile="tiny" fill="#2d2d4e" height="1000" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="0" version="1.2" viewbox="0 0 1000 1000" width="1000" xmlns="http://www.w3.org/2000/svg">
  <style>
   path { transition: fill 0.3s, stroke 0.3s; cursor: pointer; }
-  path:hover { fill: #3d3d6e; stroke: #FFD700; stroke-width: 1.2; }
-  #PELIM { fill: #B8860B; stroke: #FFD700; stroke-width: 2; filter: drop-shadow(0 0 8px rgba(255,215,0,0.6)); }
+  path:hover { fill: #3d3d6e; }
+  #PELIM { fill: #B8860B; filter: drop-shadow(0 0 8px rgba(255,215,0,0.6)); }
   text { font-family: Arial, sans-serif; fill: #ffffff; text-anchor: middle; pointer-events: none; stroke: none; }
   #PELIM + text, text.active { fill: #FFD700; }
 </style>
