@@ -4,7 +4,7 @@
 ************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
 ************* Attribution is appreciated! https://simplemaps.com *******************************************-->
 
-<svg id="peru-map" baseprofile="tiny" fill="#2d2d4e" height="1000" stroke="#444" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5" version="1.2" viewbox="0 0 1000 1000" width="1000" xmlns="http://www.w3.org/2000/svg">
+<svg id="peru-map" baseprofile="tiny" fill="#2d2d4e" height="1000" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5" version="1.2" viewbox="0 0 1000 1000" width="1000" xmlns="http://www.w3.org/2000/svg">
  <style>
   path { transition: fill 0.3s, stroke 0.3s; cursor: pointer; }
   path:hover { fill: #3d3d6e; }
@@ -120,28 +120,28 @@
   <circle class="Junín" cx="503.6" cy="603.2" id="PEJUN">
   </circle>
  </g>
-  <text x="726.9" y="925" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">TAC</text>
-  <text x="715.7" y="640" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">MDD</text>
-  <text x="509.8" y="239" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">LOR</text>
-  <text x="345.5" y="302" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">AMA</text>
-  <text x="324.5" y="385" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">CAJ</text>
-  <text x="226.8" y="236" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">TUM</text>
-  <text x="238.7" y="297" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">PIU</text>
-  <text x="596.4" y="548" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">UCA</text>
-  <text x="736.1" y="794" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">PUN</text>
-  <text x="699.7" y="885" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">MOQ</text>
-  <text x="631.6" y="830" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">ARE</text>
-  <text x="472.9" y="756" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">ICA</text>
-  <text x="420" y="655" text-anchor="middle" fill="#FFD700" font-size="15" font-weight="700" stroke="#444" style="pointer-events:none;">LIM</text>
-  <text x="370.1" y="507" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">ANC</text>
-  <text x="327.5" y="445" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">LAL</text>
-  <text x="262.4" y="356" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">LAM</text>
-  <text x="602.9" y="664" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">CUS</text>
-  <text x="539.6" y="759" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">AYA</text>
-  <text x="599" y="740" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">APU</text>
-  <text x="502.5" y="681" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">HUV</text>
-  <text x="410" y="398" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">SAM</text>
-  <text x="438" y="518" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">HUC</text>
-  <text x="486.3" y="554" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">PAS</text>
-  <text x="503.6" y="607" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#444" style="pointer-events:none;">JUN</text>
+  <text x="726.9" y="925" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">TAC</text>
+  <text x="715.7" y="640" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">MDD</text>
+  <text x="509.8" y="239" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">LOR</text>
+  <text x="345.5" y="302" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">AMA</text>
+  <text x="324.5" y="385" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">CAJ</text>
+  <text x="226.8" y="236" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">TUM</text>
+  <text x="238.7" y="297" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">PIU</text>
+  <text x="596.4" y="548" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">UCA</text>
+  <text x="736.1" y="794" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">PUN</text>
+  <text x="699.7" y="885" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">MOQ</text>
+  <text x="631.6" y="830" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">ARE</text>
+  <text x="472.9" y="756" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">ICA</text>
+  <text x="420" y="655" text-anchor="middle" fill="#FFD700" font-size="15" font-weight="700" stroke="#333" style="pointer-events:none;">LIM</text>
+  <text x="370.1" y="507" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">ANC</text>
+  <text x="327.5" y="445" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">LAL</text>
+  <text x="262.4" y="356" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">LAM</text>
+  <text x="602.9" y="664" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">CUS</text>
+  <text x="539.6" y="759" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">AYA</text>
+  <text x="599" y="740" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">APU</text>
+  <text x="502.5" y="681" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">HUV</text>
+  <text x="410" y="398" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">SAM</text>
+  <text x="438" y="518" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">HUC</text>
+  <text x="486.3" y="554" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">PAS</text>
+  <text x="503.6" y="607" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="400" stroke="#333" style="pointer-events:none;">JUN</text>
 </svg>
