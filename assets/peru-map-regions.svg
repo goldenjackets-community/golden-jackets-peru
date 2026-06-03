@@ -67,58 +67,6 @@
   </path>
  </g>
  <g id="label_points">
-  <circle class="Tacna" cx="726.9" cy="921.1" id="PETAC">
-  </circle>
-  <circle class="Madre de Dios" cx="715.7" cy="636.2" id="PEMDD">
-  </circle>
-  <circle class="Loreto" cx="509.8" cy="235" id="PELOR">
-  </circle>
-  <circle class="Amazonas" cx="345.5" cy="297.7" id="PEAMA">
-  </circle>
-  <circle class="Cajamarca" cx="324.5" cy="381.3" id="PECAJ">
-  </circle>
-  <circle class="Tumbes" cx="226.8" cy="231.6" id="PETUM">
-  </circle>
-  <circle class="Piura" cx="238.7" cy="292.7" id="PEPIU">
-  </circle>
-  <circle class="Ucayali" cx="596.4" cy="544.3" id="PEUCA">
-  </circle>
-  <circle class="Puno" cx="736.1" cy="789.7" id="PEPUN">
-  </circle>
-  <circle class="Moquegua" cx="699.7" cy="880.6" id="PEMOQ">
-  </circle>
-  <circle class="Arequipa" cx="631.6" cy="826.4" id="PEARE">
-  </circle>
-  <circle class="Ica" cx="472.9" cy="751.8" id="PEICA">
-  </circle>
-  <circle class="Lima Province" cx="446.1" cy="659.8" id="PELIM">
-  </circle>
-  <circle class="Lima" cx="408.5" cy="639.1" id="PELMA">
-  </circle>
-  <circle class="Callao" cx="396.5" cy="636.4" id="PECAL">
-  </circle>
-  <circle class="Áncash" cx="370.1" cy="503.3" id="PEANC">
-  </circle>
-  <circle class="La Libertad" cx="327.5" cy="441.4" id="PELAL">
-  </circle>
-  <circle class="Lambayeque" cx="262.4" cy="351.9" id="PELAM">
-  </circle>
-  <circle class="Cusco" cx="602.9" cy="660.1" id="PECUS">
-  </circle>
-  <circle class="Ayacucho" cx="539.6" cy="755" id="PEAYA">
-  </circle>
-  <circle class="Apurímac" cx="599" cy="735.7" id="PEAPU">
-  </circle>
-  <circle class="Huancavelica" cx="502.5" cy="676.7" id="PEHUV">
-  </circle>
-  <circle class="San Martín" cx="410" cy="394" id="PESAM">
-  </circle>
-  <circle class="Huánuco" cx="438" cy="513.5" id="PEHUC">
-  </circle>
-  <circle class="Pasco" cx="486.3" cy="550.1" id="PEPAS">
-  </circle>
-  <circle class="Junín" cx="503.6" cy="603.2" id="PEJUN">
-  </circle>
  </g>
   <text x="726.9" y="925" text-anchor="middle" fill="#888" font-size="15" font-weight="400" stroke="none" style="pointer-events:none;">TAC</text>
   <text x="715.7" y="640" text-anchor="middle" fill="#888" font-size="15" font-weight="400" stroke="none" style="pointer-events:none;">MDD</text>
