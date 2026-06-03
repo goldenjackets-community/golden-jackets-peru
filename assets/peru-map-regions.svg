@@ -8,7 +8,7 @@
  <style>
   path { transition: fill 0.3s, stroke 0.3s; cursor: pointer; }
   path:hover { fill: #3d3d6e; }
-  #PELIM, #PELMA { fill: #B8860B; filter: drop-shadow(0 0 8px rgba(255,215,0,0.6)); }
+  #PELIM, #PELMA { fill: #B8860B; stroke: none; filter: drop-shadow(0 0 8px rgba(255,215,0,0.6)); }
   text { font-family: Arial, sans-serif; fill: #888; font-weight: 400; text-anchor: middle; pointer-events: none; stroke: none; }
   #PELIM + text, text.active { fill: #FFD700; }
 </style>
