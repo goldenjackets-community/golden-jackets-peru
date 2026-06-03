@@ -132,7 +132,7 @@
   <text x="699.7" y="885" text-anchor="middle" fill="#888" font-size="15" font-weight="400" stroke="none" style="pointer-events:none;">MOQ</text>
   <text x="631.6" y="830" text-anchor="middle" fill="#888" font-size="15" font-weight="400" stroke="none" style="pointer-events:none;">ARE</text>
   <text x="472.9" y="756" text-anchor="middle" fill="#888" font-size="15" font-weight="400" stroke="none" style="pointer-events:none;">ICA</text>
-  <text x="420" y="655" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="700" stroke="none" style="pointer-events:none;">LIM</text>
+  <text x="420" y="655" text-anchor="middle" font-size="15" stroke="none" style="pointer-events:none;fill:#ffffff;font-weight:700;">LIM</text>
   <text x="370.1" y="507" text-anchor="middle" fill="#888" font-size="15" font-weight="400" stroke="none" style="pointer-events:none;">ANC</text>
   <text x="327.5" y="445" text-anchor="middle" fill="#888" font-size="15" font-weight="400" stroke="none" style="pointer-events:none;">LAL</text>
   <text x="262.4" y="356" text-anchor="middle" fill="#888" font-size="15" font-weight="400" stroke="none" style="pointer-events:none;">LAM</text>
