@@ -1057,9 +1057,9 @@ async function submitApplication() {
   msg.innerHTML = '<span style="color:var(--gold)">Submitting...</span>';
   msg.style.display = 'block';
   try {
-    if (!document.getElementById('applyConsent').checked) { msg.innerHTML = '<span style="color:#f44336">❌ Please accept the Privacy Policy to continue.</span>'; return; }
+    if (!document.getElementById('applyConsent').checked) { msg.innerHTML = '<span style="color:#f44336">❌ Please accept the Privacy Policy to continue.</span>'; window._submitting=false; return; }
     var name = document.getElementById('applyName').value;
-    if (!name) { msg.innerHTML = '<span style="color:#f44336">❌ Please enter your name.</span>'; return; }
+    if (!name) { msg.innerHTML = '<span style="color:#f44336">❌ Please enter your name.</span>'; window._submitting=false; return; }
     var photoB64 = '';
     var photoName = '';
     var fileInput = document.getElementById('applyPhoto');
@@ -1067,7 +1067,7 @@ async function submitApplication() {
       var file = fileInput.files[0];
       if (file.size > 3 * 1024 * 1024) {
         msg.innerHTML = '<span style="color:#f44336">❌ Photo too large (max 3MB). Please resize or submit without photo.</span>';
-        return;
+        window._submitting=false; return;
       }
       photoName = file.name;
       photoB64 = await new Promise(function(resolve) {
@@ -1101,6 +1101,8 @@ async function submitApplication() {
     }
   } catch(e) {
     msg.innerHTML = '<span style="color:#f44336">❌ Error: ' + e.message + '</span>';
+  } finally {
+    window._submitting = false;
   }
 }
 
